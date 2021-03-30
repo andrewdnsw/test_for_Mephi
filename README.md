@@ -7,20 +7,22 @@
 4. 	Загрузка/сохранение картотеки в файл
 
 Код программы находится в файлах:
+```
 Program.cs - весь код 
 Class1.cs - класс book
+```
 
-Файл для запуска \bin\Debug\netcoreapp3.1\MEPHI_TEST.exe
+**Файл для запуска \bin\Debug\netcoreapp3.1\MEPHI_TEST.exe**
 
 Демонстрация программы представлена на изображениях ниже
-![img1](img1.JPG)
+![img1](img1.jpg)
 
-![img2](img2.JPG)
+![img2](img2.jpg)
 
-![img3](img3.JPG)
+![img3](img3.jpg)
 
-![img4](img4.JPG)
+![img4](img4.jpg)
 
-![img5](img5.JPG)
+![img5](img5.jpg)
 
-![img6](img6.JPG)
+![img6](img6.jpg)
